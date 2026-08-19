@@ -1,5 +1,5 @@
 streamlit
-yt-dlp
+yt-dlp>=2026.7.0
 openai-whisper
 google-generativeai
 python-dotenv
